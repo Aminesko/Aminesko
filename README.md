@@ -44,7 +44,7 @@
 
 ✔ **Pronouns:** <b>He/His</b> 
 ✔ Currently working on <b>becoming the best version of myself</b>, both personally and professionally.  
-✔ Founder of <b>Alvaric Studios</b>, turning ideas into reality through technology.  
+✔ Founder of <b>Aminesko's Studios</b>, turning ideas into reality through technology.  
 ✔ Passionate about <b>high-performance web development</b>, with a strong focus on <b>ReactJS</b> & <b>Next.js</b>.  
 ✔ Always open to collaborating on <b>innovative projects</b> and <b>open-source contributions</b>.  
 ✔ Self-taught mindset—started freelancing at 13, creating <b>custom game plugins</b> and diving into <b>object-oriented programming</b>.  
