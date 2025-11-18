@@ -79,7 +79,6 @@
 
 <h3 align="center">If you want to donate to support my work:</h3>
 <p align="center">
-<script src="https://liberapay.com/amyn/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/amyn/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
   </a>
 </p>
