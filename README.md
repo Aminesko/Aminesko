@@ -44,7 +44,7 @@
 
 ✔ **Pronouns:** <b>He/His</b> 
 ✔ Currently working on <b>becoming the best version of myself</b>, both personally and professionally.  
-✔ Founder of <b>Aminesko's Studios</b>, turning ideas into reality through technology.  
+✔ Founder of <b>Amyn Studios</b>, turning ideas into reality through technology.  
 ✔ Passionate about <b>high-performance web development</b>, with a strong focus on <b>ReactJS</b> & <b>Next.js</b>.  
 ✔ Always open to collaborating on <b>innovative projects</b> and <b>open-source contributions</b>.  
 ✔ Self-taught mindset—started freelancing at 13, creating <b>custom game plugins</b> and diving into <b>object-oriented programming</b>.  
@@ -74,7 +74,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminesko&show_icons=true&locale=en&layout=compact" alt="Amine's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aminesko&show_icons=true&locale=en" alt="Amine's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amyn&show_icons=true&locale=en" alt="Amine's GitHub Stats" />
 </p>
 
 <h3 align="center">If you want to donate to support my work:</h3>
