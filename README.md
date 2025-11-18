@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amine, known as Aminesko!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Amine, known as Amyn!</h1>
 <h3 align="center">Java Developer & Web Developer</h3>
 
 <p align="center">
